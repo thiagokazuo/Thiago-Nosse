@@ -20,7 +20,7 @@
 - [Email](mailto:thiagotabata2012@gmail.com)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiagokazuo&show_icons=true&count_private=true&theme=radical)
+![GitHub Stats](https://tinyurl.com/ysmt57ne)
 
 ---
 
