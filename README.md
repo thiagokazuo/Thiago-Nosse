@@ -20,7 +20,7 @@
 - [Email](mailto:thiagotabata2012@gmail.com)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://tinyurl.com/ysmt57ne)
+[![GitHub Streak](https://streak-stats.demolab.com?user=thiagonosse&theme=gotham&hide_border=verdadeiro&short_numbers=falso)](https://git.io/streak-stats)
 
 ---
 
