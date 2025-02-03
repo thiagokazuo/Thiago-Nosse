@@ -25,8 +25,7 @@
 ---
 
 📝 **Projetos em Destaque**
-- [Meu Projeto de API RESTful em Flask](https://github.com/thiagokazuo/projeto-flask)
-- [Sistema de Gerenciamento de Procedimentos Médicos](https://github.com/thiagokazuo/procedimentos)
+- [Aplicação de Gerenciamento de Procedimentos (NOC Docs)](https://github.com/thiagonosse/Noc-Docs)
 
 ---
 
