@@ -1,5 +1,5 @@
 # 🚀 Thiago Nosse - Desenvolvedor Full Stack
-[![Github Badge](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/thiagokazuo)
+[![Github Badge](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/thiagonosse)
 
 > Sou um desenvolvedor apaixonado por tecnologias web. No momento, estou no 6º período de Análise e Desenvolvimento de Sistemas, trabalhando principalmente com Python, Flask, MySQL e muito mais.
 
